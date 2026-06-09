@@ -1,3 +1,4 @@
+
 student_scores = {
     'Harry': 88,
     'Ron': 78,
@@ -13,6 +14,6 @@ for student in student_scores:
         student_grades[student] = "Exceeds Expectations"
     elif student_scores[student] >= 71:
         student_grades[student] = "Acceptable"
-    elif student_scores[student] > 70:
+    elif student_scores[student] <= 70:
         student_grades[student] = "Fail"
 print(student_grades)
