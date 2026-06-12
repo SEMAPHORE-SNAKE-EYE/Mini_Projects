@@ -1,0 +1,4 @@
+ Create a greeting for the program
+ Ask the user for the city they grew up in and store it in a variable
+ Ask the user for the name of a pet and store it in a variable
+ Combine the name of the city and pet to show their brand name
