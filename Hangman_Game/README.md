@@ -33,28 +33,6 @@ hangman/
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/hangman-game.git
-```
-
-2. Navigate to the project folder
-
-```bash
-cd hangman-game
-```
-
-3. Run the game
-
-```bash
-python main.py
-```
-
----
-
 ## 🎮 How to Play
 
 - A random word is selected.
@@ -67,25 +45,7 @@ python main.py
 
 ---
 
-## 📸 Sample Output
 
-```
-You have 6 lives.
-
-Guess a letter: a
-
-_ a _ _ _
-
-You have 6 lives.
-
-Guess a letter: p
-
-a p p _ _
-
-Congratulations! You guessed the word.
-```
-
----
 
 ## 📚 Concepts Used
 
